@@ -7,7 +7,7 @@ The dataset contains tap interactions recorded using an IMU sensor mounted on th
 1. **Model evaluation** on the released preprocessed dataset.
 2. **Tap extraction** from the raw IMU and tap-pad recordings for users who want to inspect, modify, or extend the preprocessing pipeline.
 
-The repository is anonymised for review. Please do not add author, institution, or identifying information while the associated submission is under double-blind review.
+The repository is anonymised for review.
 
 ---
 
@@ -51,7 +51,7 @@ After downloading and extracting the dataset, place its contents inside the `TAP
 └── README.md                      # Repository documentation
 ```
 
-The folders `your-processed-taps/1` to `your-processed-taps/11` represent anonymised participants. They are intentionally empty in the GitHub repository and are used as output locations if users regenerate processed tap files from the raw dataset.
+The folders `your-processed-taps/1` to `your-processed-taps/11` represent anonymised participants. They are intentionally empty in the GitHub repository and are used as output locations if viewers/reviewers regenerate processed tap files from the raw dataset.
 ---
 
 ## Dataset structure expected by the code
@@ -370,7 +370,7 @@ Citation details will be added after review.
 }
 ``` -->
 
----
+<!-- ---
 
 ## License
 
@@ -379,4 +379,4 @@ Add the repository license here.
 Recommended options:
 
 - Code: MIT License or Apache-2.0 License.
-- Dataset: CC BY 4.0, if attribution is acceptable and consistent with the dataset release requirements.
+- Dataset: CC BY 4.0, if attribution is acceptable and consistent with the dataset release requirements. -->
