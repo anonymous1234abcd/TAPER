@@ -1,0 +1,1 @@
+If you'd like to play around with the raw IMU data (accelerometer + gyroscope) data to extract taps yourself, they will be stored here.
