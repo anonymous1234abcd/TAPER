@@ -370,13 +370,5 @@ Citation details will be added after review.
 }
 ``` -->
 
-<!-- ---
-
-## License
-
-Add the repository license here.
-
-Recommended options:
-
-- Code: MIT License or Apache-2.0 License.
-- Dataset: CC BY 4.0, if attribution is acceptable and consistent with the dataset release requirements. -->
+Code licence: MIT License
+Dataset licence: CC BY 4.0
